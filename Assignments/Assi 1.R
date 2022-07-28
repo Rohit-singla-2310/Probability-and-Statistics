@@ -1,6 +1,6 @@
 #------------------------- Assignment 1 -----------------------------
 
-#Made By: Gaurav Baweja - 102097005 - CSE 4
+#Made By: Rohit Singla - 101917082 - CSE 4
 
 # Qn - You have six courses in this semester (one of these is UCS410) and there are 750
 # students in your class. Generate the marks of these 750 students for the six courses
